@@ -1,4 +1,4 @@
-#### Overcoming Dual Drift for Continual Long-Tailed Visual Question Answering (accepted to ICCV2025)
+# Overcoming Dual Drift for Continual Long-Tailed Visual Question Answering (accepted to ICCV2025)
 ## Setup
 ```bash
 # Create python environment (optional)
